@@ -3,7 +3,7 @@ Solarized Colorscheme for Guake
 
 Based on https://github.com/sigurdga/gnome-terminal-colors-solarized
 
-This is a virance with grayscale base colors, and accent colors unchanged
+This is a variance with grayscale base colors, and accent colors unchanged
 
 Credits:
 
