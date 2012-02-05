@@ -1,14 +1,14 @@
 Solarized Colorscheme for Guake
 ===============================
 
-Configure solorized based color themes for guake
+Configure solarized based color themes for guake
 
 Included Themes
 ===============
 
-solorized 
+solarized 
 
-* Standard solorized theme from http://ethanschoonover.com/solarized
+* Standard solarized theme from http://ethanschoonover.com/solarized
 * Color profiles taken from https://github.com/sigurdga/gnome-terminal-colors-solarized
 
 grey
@@ -18,19 +18,19 @@ grey
 Example
 =======
 
-Set the standard dark solorized theme
+Set the standard dark solarized theme
 
-* ./set_dark solorized
+* ./set_dark solarized
 
-Set the standard light solorized theme
+Set the standard light solarized theme
 
-* ./set_light solorized
+* ./set_light solarized
 
-Set the grey modified solorized dark theme
+Set the grey modified solarized dark theme
 
 * ./set_dark grey
 
-Set the grey modified solorized light theme
+Set the grey modified solarized light theme
 
 * ./set_light grey
 

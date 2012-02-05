@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-default='solorized'
+default='solarized'
 dir=`dirname $0`
 
 if [ -d $dir/colors/$1 ]; then
