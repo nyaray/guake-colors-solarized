@@ -1,12 +1,36 @@
 Solarized Colorscheme for Guake
-========================================
+===============================
 
-Based on https://github.com/sigurdga/gnome-terminal-colors-solarized
+Configure solorized based color themes for guake
 
-This is a variance with grayscale base colors, and accent colors unchanged
+Included Themes
+===============
 
-Credits:
+solorized 
+* Standard solorized theme from http://ethanschoonover.com/solarized
+* Color profiles taken from https://github.com/sigurdga/gnome-terminal-colors-solarized
 
-  - Solarized for Gnome Terminal: by Sigurd Gartmann <sigurdga@sigurdga.no>
-  - Solarized color theme: by Ethan Schoonover <es@ethanschoonover.com>
+grey
+* This is a variance with grayscale base colors, and accent colors unchanged
+
+Example
+=======
+
+Set the standard dark solorized theme
+* ./set_dark solorized
+
+Set the standard light solorized theme
+* ./set_light solorized
+
+Set the grey modified solorized dark theme
+* ./set_dark grey
+
+Set the grey modified solorized light theme
+* ./set_light grey
+
+Credits
+=======
+
+* Solarized for Gnome Terminal: by Sigurd Gartmann <sigurdga@sigurdga.no>
+* Solarized color theme: by Ethan Schoonover <es@ethanschoonover.com>
 
