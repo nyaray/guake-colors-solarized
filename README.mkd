@@ -7,25 +7,31 @@ Included Themes
 ===============
 
 solorized 
+
 * Standard solorized theme from http://ethanschoonover.com/solarized
 * Color profiles taken from https://github.com/sigurdga/gnome-terminal-colors-solarized
 
 grey
+
 * This is a variance with grayscale base colors, and accent colors unchanged
 
 Example
 =======
 
 Set the standard dark solorized theme
+
 * ./set_dark solorized
 
 Set the standard light solorized theme
+
 * ./set_light solorized
 
 Set the grey modified solorized dark theme
+
 * ./set_dark grey
 
 Set the grey modified solorized light theme
+
 * ./set_light grey
 
 Credits
